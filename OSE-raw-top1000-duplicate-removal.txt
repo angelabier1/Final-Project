@@ -1,0 +1,63 @@
+The following texts were affected by the duplicate removal stage of the cleaning process for the top 1000 texts
+
+Nicomachean Ethics	Aristotle
+The Politics	Aristotle
+The Courtier Castiglione	Baldassarre
+Songs of Experience	Blake
+Songs of Innocence	Blake
+Elementary Differential Equations and Boundary Value Problems	Boyce
+Canterbury Tales	Chaucer
+Research Design : Qualitative & Quantitative Approaches	Creswell
+The Divine Comedy	Dante Alighieri
+On the Origin of Species	Darwin
+Robinson Crusoe	Daniel Defoe
+Discourse on Method	Descartes
+Meditations on First Philosophy	Descartes
+The Count of Monte-Cristo	Dumas
+The Three Worlds of Welfare Capitalism	Esping-Andersen
+The End of History and the Last Man	Fukuyama
+Nations and Nationalism	Gellner
+The Decline and Fall of the Roman Empire	Gibbon
+The Yellow Wallpaper	Gilman
+Prison Notebooks	Gramsci
+Fundamentals of Physics	Halliday
+The Histories	Herodotus
+Works & Days	Hesiod
+Theogony	Hesiod
+The Iliad	Homer
+The Odyssey	Homer
+The Clash of Civilizations	Huntington
+The General Theory of Employment	Keynes
+Two Treatises of Government	Locke
+An Essay on the Principle of Population	Malthus
+Principles of Macroeconomics	Mankiw
+Principles of Microeconomics	Mankiw
+Human Anatomy & Physiology	Marieb
+Doctor Faustus	Marlowe
+The Communist Manifesto	Marx
+Karl Marx	McLellan
+Understanding Media : The Extensions of Man	McLuhan
+Bartleby the Scrivener	Melville
+Paradise Lost	Milton
+On the Genealogy of Morals	Nietzsche
+Questionnaire Design Interviewing and Attitude Measurement	Oppenheim
+Apology	Plato
+Republic	Plato
+Crito	Plato
+Discourse on the Origin of Inequality	Rousseau
+On the Social Contract	Rousseau
+Existentialism and Humanism	Sartre
+An Inquiry Into the Nature and Causes of the Wealth of Nations	Smith
+The Theban Plays	Sophocles
+Oedipus	Sophocles
+Operating Systems	Stallings
+The Strange Case of Dr. Jekyll and Mr. Hyde	Stevenson
+The Rite of Spring	Stravinsky
+Summa Theologica	Thomas
+History of the Peloponnesian War	Thucydides
+Democracy in America	Tocqueville
+A Manual for Writers of Term Papers Theses and Dissertations	Turabian
+Adventures of Huckleberry Finn	Twain
+Style : Lessons in Clarity and Grace	Williams
+A Vindication of the Rights of Woman	Wollstonecraft
+Lyrical Ballads 1805	Wordsworth
