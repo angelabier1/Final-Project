@@ -6,7 +6,8 @@ Contributions were made to this folder by co-authors of this project Benjamin Do
 
 The best method of navigating this repository is reading through the Open Syllabus Explorers project and following the links to the datasets. Nonetheless, a legend for navigation will be given below.
 
-Final Datasets
+Final Datasets:
+
 Humanities-dataset-cleaned-final.csv
 OSE-Cambridge-Top25-final.csv
 OSE-Canada-Top25-final.csv
@@ -18,7 +19,8 @@ OSE-LSE-Top25-final.csv
 OSE-UK-Top25-final.csv
 OSE-US-Top25-final.csv
 
-General Data
+General Data:
+
 OSE-raw-top100-withgeo-withgender-norepeats.csv
 OSE-raw-top1000-cleaned-almost-final.txt
 OSE-raw-top1000-cleaned-final.csv
@@ -35,7 +37,8 @@ OSE-top100-withcoordinates-Palladio-final.txt
 OSE-top100-withcoordinates-Palladio.csv
 RegEx-Instructions-and-cleaning-method.txt
 
-Institutions Data
+Institutions Data:
+
 Carleton-full-cleaned.csv
 Carleton-full-cleaned.txt
 Carleton-full.txt
@@ -51,7 +54,8 @@ OSE-raw-LSE-Top1000-cleaned.csv
 OSE-raw-LSE-Top1000-cleaned.txt
 OSE-raw-LSE-Top1000.txt
 
-Country Data
+Country Data:
+
 OSE-raw-Canada-top1000-cleaned.csv
 OSE-raw-Canada-top1000.txt
 OSE-raw-UK-Top1000-cleaned.csv
@@ -61,7 +65,8 @@ OSE-raw-US-Top1000-cleaned.csv
 OSE-raw-US-Top1000-cleaned.txt
 OSE-raw-US-Top1000.txt
 
-Visualizations
+Visualizations:
+
 Cambridge-Gender.png
 Cambridge-Nationality.png
 Canada-Gender.png
@@ -98,7 +103,8 @@ US-Nationality.png
 screenshot-raw-top10.PNG
 screenshot-regex-top20.PNG
 
-Extra Resources Used
+Extra Resources Used:
+
 GreatBooks-authors-nationality-dates-cleaned-final.csv
 GreatBooks-authors-nationality-dates-cleaned-final.txt
 GreatBooks-authors-nationality-dates-cleaned.csv
